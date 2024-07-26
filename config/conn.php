@@ -3,7 +3,7 @@
 $host="localhost";
 $username="root";
 $password="";
-$dbname="it_report2";
+$dbname="#######";
 
 // for database connection 
 
